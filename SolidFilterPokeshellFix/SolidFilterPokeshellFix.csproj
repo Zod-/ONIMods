@@ -11,7 +11,7 @@
     <PackageId>SolidFilterPokeshellFix</PackageId>
     <Product>SolidFilterPokeshellFix</Product>
   </PropertyGroup>
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+  <PropertyGroup>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <OutputPath>C:\Users\$(USERNAME)\Documents\Klei\OxygenNotIncluded\mods\Dev\$(AssemblyName)\</OutputPath>
   </PropertyGroup>
